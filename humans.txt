@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Esad Sönmez		esadamca@gmail.com 	@eclipse895
 
 # THANKS
 
