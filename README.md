@@ -8,7 +8,7 @@ As stated, this teaches you simple git functions
 Deployment can be anywhere, on a local server or an actual server
 ## How to contribute
 
-Do whatever you like dude
+Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
