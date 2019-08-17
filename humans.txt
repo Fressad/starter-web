@@ -13,3 +13,4 @@ Esad Sönmez		esadamca@gmail.com 	@eclipse895
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
