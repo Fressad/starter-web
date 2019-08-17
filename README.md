@@ -9,3 +9,7 @@ Deployment can be anywhere, on a local server or an actual server
 ## How to contribute
 
 Do whatever you like dude
+
+### Copyright
+
+2014 git.training
