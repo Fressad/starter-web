@@ -1,5 +1,5 @@
 # Starter WebProject
-This is a simple website project for git
+This is a simple website project for git. Now also teaching rebasing
 ## Introduction
 I will teach you anything about git for proper use
 ## Purpose
